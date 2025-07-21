@@ -5,5 +5,5 @@ definePageMeta({
 </script>
 
 <template>
-  <h1>Welcome chatter</h1>
+  <ChatWindow />
 </template>
